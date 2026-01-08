@@ -1,0 +1,10 @@
+# CHANGELOG 
+This file displays all changes and updates.
+
+## Version 1.0.0 January 8,  2026
+- First version of the program
+- Added features such as:
+  - Add a to-do
+  - Remove a to-do
+  - Edit a to-do
+  - Show current to-do list
